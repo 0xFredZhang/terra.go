@@ -1,6 +1,6 @@
-module github.com/terra-money/terra.go
+module github.com/0xFredZhang/terra.go
 
-go 1.17
+go 1.23.1
 
 require (
 	github.com/cosmos/cosmos-sdk v0.44.5

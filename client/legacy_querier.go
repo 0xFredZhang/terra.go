@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/net/context/ctxhttp"
 
-	"github.com/terra-money/terra.go/msg"
+	"github.com/0xFredZhang/terra.go/msg"
 
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	"github.com/cosmos/cosmos-sdk/types/rest"

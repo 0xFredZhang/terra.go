@@ -10,7 +10,7 @@ import (
 
 	core "github.com/terra-money/core/types"
 
-	"github.com/terra-money/terra.go/key"
+	"github.com/0xFredZhang/terra.go/key"
 )
 
 func init() {
